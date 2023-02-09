@@ -1,4 +1,5 @@
 **With this extension you can filtering what huges you want to find**
+
 How to install the extension : 
 1. Go to the extension tab from your settings or insert this "chrome://extensions" in your search bar 
 2. After the installing the extension from github unzip the extension and drag and drop to your extensions tab
