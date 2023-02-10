@@ -7,6 +7,6 @@ How to install the extension :
 
 NOTE : Don't enter 5 minutes in game because if you enter in the game before the loading of the extension will be needed to reinstall it
 
-**TUTORIAL ON YT: **
+*TUTORIAL ON YT:*
 
 https://youtu.be/JCXm7A94760
