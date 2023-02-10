@@ -6,3 +6,7 @@ How to install the extension :
 3. Please notice that after the activation you will need to wait 5 minutes to load the extension in roblox
 
 NOTE : Don't enter 5 minutes in game because if you enter in the game before the loading of the extension will be needed to reinstall it
+
+TUTORIAL ON YT: 
+
+https://youtu.be/JCXm7A94760
